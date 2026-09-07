@@ -1,0 +1,22 @@
+[
+ {
+  "id": "g1",
+  "source": "Demo GCP-style guideline",
+  "chunk_text": "All serious adverse events must be reported to the regulatory authority and ethics committee. Demo placeholder: within 24 hours of site awareness."
+ },
+ {
+  "id": "g2",
+  "source": "Demo GCP-style guideline",
+  "chunk_text": "Non-serious adverse events should be recorded in the trial master file and summarised in periodic safety reports. Demo placeholder: 15 days."
+ },
+ {
+  "id": "g3",
+  "source": "Demo Ayurveda trial SOP",
+  "chunk_text": "For Ayurveda interventions, also document the formulation/batch (e.g. Ashwagandha churna batch no.) in the AE narrative."
+ },
+ {
+  "id": "g4",
+  "source": "Demo Ethics SOP",
+  "chunk_text": "Ethics committee approval is typically valid for one year and must be renewed before expiry to continue enrolment."
+ }
+]

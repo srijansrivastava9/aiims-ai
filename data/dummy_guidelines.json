@@ -1,0 +1,14 @@
+[
+  {
+    "source": "Pharmacovigilance",
+    "content": "Serious adverse events must be reported within 24 hours. [DEMO PLACEHOLDER: 24h SAE deadline]"
+  },
+  {
+    "source": "Pharmacovigilance",
+    "content": "Non-serious adverse events must be reported within 15 days. [DEMO PLACEHOLDER: 15d AE deadline]"
+  },
+  {
+    "source": "GCP",
+    "content": "All adverse events must be reported to the sponsor and ethics committee promptly."
+  }
+]

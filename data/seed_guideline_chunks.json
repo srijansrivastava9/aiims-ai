@@ -1,0 +1,162 @@
+[
+ {
+  "source": "GCP-ASU (demo)",
+  "content": "A clinical trial must be conducted in compliance with Good Clinical Practice, with the protocol approved by an ethics committee before any subject is enrolled."
+ },
+ {
+  "source": "GCP-ASU (demo)",
+  "content": "Informed consent must be obtained from every trial subject, or their legally acceptable representative, before any trial-related procedure is performed."
+ },
+ {
+  "source": "GCP-ASU (demo)",
+  "content": "The investigator is responsible for the medical care of trial subjects and for any decisions related to their participation in the trial."
+ },
+ {
+  "source": "GCP-ASU (demo)",
+  "content": "All trial-related information must be recorded, handled, and stored in a way that allows its accurate reporting, interpretation, and verification."
+ },
+ {
+  "source": "GCP-ASU (demo)",
+  "content": "Source documents should be attributable, legible, contemporaneous, original, accurate, and complete."
+ },
+ {
+  "source": "GCP-ASU (demo)",
+  "content": "The trial master file should be maintained at the site and be available for monitoring, audit, and inspection."
+ },
+ {
+  "source": "Pharmacovigilance SOP (demo)",
+  "content": "An adverse event is any untoward medical occurrence in a trial subject administered a trial product, whether or not causally related to the product."
+ },
+ {
+  "source": "Pharmacovigilance SOP (demo)",
+  "content": "A serious adverse event is one that results in death, is life-threatening, requires inpatient hospitalisation, causes persistent disability, or is a congenital anomaly."
+ },
+ {
+  "source": "Pharmacovigilance SOP (demo)",
+  "content": "DEMO PLACEHOLDER: serious adverse events must be reported to the regulator and ethics committee within 24 hours of site awareness. Verify before presenting as fact."
+ },
+ {
+  "source": "Pharmacovigilance SOP (demo)",
+  "content": "DEMO PLACEHOLDER: non-serious adverse events should be documented and reported within 15 days. Verify before presenting as fact."
+ },
+ {
+  "source": "Pharmacovigilance SOP (demo)",
+  "content": "Every adverse event narrative should include onset date, severity, seriousness criteria, action taken with the trial product, and outcome."
+ },
+ {
+  "source": "Pharmacovigilance SOP (demo)",
+  "content": "Causality assessment for each adverse event should be classified as related, possibly related, or not related to the trial product."
+ },
+ {
+  "source": "Pharmacovigilance SOP (demo)",
+  "content": "Suspected unexpected serious adverse reactions require expedited reporting in addition to the standard serious adverse event timeline."
+ },
+ {
+  "source": "Pharmacovigilance SOP (demo)",
+  "content": "Adverse events that are ongoing at the end of the reporting period should be followed up until resolution or stabilization."
+ },
+ {
+  "source": "Ayush SOP (demo)",
+  "content": "For Ayurveda interventions, the AE narrative should document the specific formulation, batch or lot number, dose, and route of administration."
+ },
+ {
+  "source": "Ayush SOP (demo)",
+  "content": "Ayurveda formulations may contain multiple botanical ingredients; the full composition should be traceable from the batch record."
+ },
+ {
+  "source": "Ayush SOP (demo)",
+  "content": "Concomitant use of other Ayurvedic, Siddha, Unani, or conventional medicines must be recorded, as interactions may affect adverse event causality."
+ },
+ {
+  "source": "Ayush SOP (demo)",
+  "content": "Quality control documentation for the trial formulation, including heavy metal and microbial testing, should be retained with the trial master file."
+ },
+ {
+  "source": "Ayush SOP (demo)",
+  "content": "Subjects receiving Panchakarma or other procedural interventions should be monitored for procedure-related adverse events separately from product-related events."
+ },
+ {
+  "source": "Ayush SOP (demo)",
+  "content": "Dietary and lifestyle regimen restrictions specified in the protocol should be documented in the subject record, since deviations may confound safety assessment."
+ },
+ {
+  "source": "Ethics SOP (demo)",
+  "content": "Ethics committee approval is generally valid for one year and must be renewed before expiry for the trial to continue enrolling subjects. DEMO PLACEHOLDER."
+ },
+ {
+  "source": "Ethics SOP (demo)",
+  "content": "Any protocol amendment that affects subject safety or rights must receive ethics committee approval before implementation, except where immediate action is required to protect subjects."
+ },
+ {
+  "source": "Ethics SOP (demo)",
+  "content": "The ethics committee should be informed of all serious adverse events occurring at the site within the timelines defined in the approved protocol."
+ },
+ {
+  "source": "Ethics SOP (demo)",
+  "content": "Compensation provisions for trial-related injury must be explained to the subject during the informed consent process."
+ },
+ {
+  "source": "CTRI guide (demo)",
+  "content": "The trial must be registered on the Clinical Trials Registry of India before the first subject is enrolled, and the registration number cited in all reports."
+ },
+ {
+  "source": "CTRI guide (demo)",
+  "content": "The CTRI record should be updated with enrolment numbers, completion dates, and posted results as the trial progresses."
+ },
+ {
+  "source": "CTRI guide (demo)",
+  "content": "Any change in the primary outcome or sample size after registration should be documented as an amendment with justification."
+ },
+ {
+  "source": "GCP-ASU (demo)",
+  "content": "Site initiation visits should confirm staff training, equipment calibration, and document readiness before enrolment begins."
+ },
+ {
+  "source": "GCP-ASU (demo)",
+  "content": "Monitoring visits should verify source data against case report forms and follow up on outstanding queries."
+ },
+ {
+  "source": "GCP-ASU (demo)",
+  "content": "Protocol deviations should be documented, assessed for impact on subject safety and data integrity, and reported to the ethics committee where required."
+ },
+ {
+  "source": "Pharmacovigilance SOP (demo)",
+  "content": "A safety signal is reported information on a possible causal relationship between the trial product and an adverse event, judged worthwhile of further analysis."
+ },
+ {
+  "source": "Pharmacovigilance SOP (demo)",
+  "content": "Periodic safety summaries should aggregate all adverse events by severity, seriousness, and causality for review by the sponsor and investigator."
+ },
+ {
+  "source": "Ayush SOP (demo)",
+  "content": "If a subject withdraws due to an adverse event, a follow-up visit should be scheduled to document resolution and any residual effects."
+ },
+ {
+  "source": "Ethics SOP (demo)",
+  "content": "Continuing review of the trial by the ethics committee should occur at least annually, and more frequently for high-risk interventions."
+ },
+ {
+  "source": "GCP-ASU (demo)",
+  "content": "Randomisation codes should be held securely, and unblinding procedures documented in the protocol."
+ },
+ {
+  "source": "GCP-ASU (demo)",
+  "content": "Essential documents should be retained for the period required by regulation after trial completion or discontinuation."
+ },
+ {
+  "source": "Pharmacovigilance SOP (demo)",
+  "content": "Pregnant or breastfeeding subjects who experience adverse events require special follow-up, including outcomes for the child where relevant."
+ },
+ {
+  "source": "CTRI guide (demo)",
+  "content": "Results of the trial, including negative findings, should be posted to the registry within the required period after completion."
+ },
+ {
+  "source": "Ayush SOP (demo)",
+  "content": "Storage conditions for Ayurveda trial formulations, including temperature and humidity limits, should be recorded and any excursions investigated."
+ },
+ {
+  "source": "Ethics SOP (demo)",
+  "content": "Subject confidentiality must be maintained; trial data should be de-identified in reports and publications."
+ }
+]

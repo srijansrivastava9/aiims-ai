@@ -1,0 +1,42 @@
+[
+ {
+  "id": "m1",
+  "code": "10028813",
+  "preferred_term": "Nausea"
+ },
+ {
+  "id": "m2",
+  "code": "10013573",
+  "preferred_term": "Diarrhoea"
+ },
+ {
+  "id": "m3",
+  "code": "10019149",
+  "preferred_term": "Headache"
+ },
+ {
+  "id": "m4",
+  "code": "10040617",
+  "preferred_term": "Skin rash"
+ },
+ {
+  "id": "m5",
+  "code": "10042868",
+  "preferred_term": "Vomiting"
+ },
+ {
+  "id": "m6",
+  "code": "10037087",
+  "preferred_term": "Pruritus"
+ },
+ {
+  "id": "m7",
+  "code": "10027602",
+  "preferred_term": "Hypotension"
+ },
+ {
+  "id": "m8",
+  "code": "10021155",
+  "preferred_term": "Hepatic enzyme increased"
+ }
+]

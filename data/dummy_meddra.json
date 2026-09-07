@@ -1,0 +1,42 @@
+[
+  {
+    "term": "Headache",
+    "code": "M001"
+  },
+  {
+    "term": "Nausea",
+    "code": "M002"
+  },
+  {
+    "term": "Vomiting",
+    "code": "M003"
+  },
+  {
+    "term": "Diarrhoea",
+    "code": "M004"
+  },
+  {
+    "term": "Dizziness",
+    "code": "M005"
+  },
+  {
+    "term": "Fatigue",
+    "code": "M006"
+  },
+  {
+    "term": "Rash",
+    "code": "M007"
+  },
+  {
+    "term": "Pruritus",
+    "code": "M008"
+  },
+  {
+    "term": "Urticaria",
+    "code": "M009"
+  },
+  {
+    "term": "Abdominal pain",
+    "code": "M010"
+  }
+]

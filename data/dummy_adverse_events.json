@@ -1,0 +1,14 @@
+[
+ {
+  "id": "ae1",
+  "description": "Subject experienced nausea and vomiting 2 hours after taking the trial Ashwagandha formulation.",
+  "is_serious": false,
+  "status": "open"
+ },
+ {
+  "id": "ae2",
+  "description": "Subject developed severe skin rash with breathing difficulty, required hospitalisation.",
+  "is_serious": true,
+  "status": "open"
+ }
+]

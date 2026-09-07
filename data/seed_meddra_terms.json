@@ -1,0 +1,302 @@
+[
+ {
+  "code": "910000037",
+  "term": "Nausea"
+ },
+ {
+  "code": "910000074",
+  "term": "Vomiting"
+ },
+ {
+  "code": "910000111",
+  "term": "Diarrhoea"
+ },
+ {
+  "code": "910000148",
+  "term": "Constipation"
+ },
+ {
+  "code": "910000185",
+  "term": "Abdominal pain"
+ },
+ {
+  "code": "910000222",
+  "term": "Abdominal distension"
+ },
+ {
+  "code": "910000259",
+  "term": "Dyspepsia"
+ },
+ {
+  "code": "910000296",
+  "term": "Flatulence"
+ },
+ {
+  "code": "910000333",
+  "term": "Gastritis"
+ },
+ {
+  "code": "910000370",
+  "term": "Dry mouth"
+ },
+ {
+  "code": "910000407",
+  "term": "Decreased appetite"
+ },
+ {
+  "code": "910000444",
+  "term": "Weight decreased"
+ },
+ {
+  "code": "910000481",
+  "term": "Skin rash"
+ },
+ {
+  "code": "910000518",
+  "term": "Pruritus"
+ },
+ {
+  "code": "910000555",
+  "term": "Urticaria"
+ },
+ {
+  "code": "910000592",
+  "term": "Erythema"
+ },
+ {
+  "code": "910000629",
+  "term": "Hyperhidrosis"
+ },
+ {
+  "code": "910000666",
+  "term": "Dry skin"
+ },
+ {
+  "code": "910000703",
+  "term": "Alopecia"
+ },
+ {
+  "code": "910000740",
+  "term": "Rash pruritic"
+ },
+ {
+  "code": "910000777",
+  "term": "Dermatitis contact"
+ },
+ {
+  "code": "910000814",
+  "term": "Angioedema"
+ },
+ {
+  "code": "910000851",
+  "term": "Headache"
+ },
+ {
+  "code": "910000888",
+  "term": "Dizziness"
+ },
+ {
+  "code": "910000925",
+  "term": "Somnolence"
+ },
+ {
+  "code": "910000962",
+  "term": "Insomnia"
+ },
+ {
+  "code": "910000999",
+  "term": "Anxiety"
+ },
+ {
+  "code": "910001036",
+  "term": "Depression"
+ },
+ {
+  "code": "910001073",
+  "term": "Tremor"
+ },
+ {
+  "code": "910001110",
+  "term": "Migraine"
+ },
+ {
+  "code": "910001147",
+  "term": "Paraesthesia"
+ },
+ {
+  "code": "910001184",
+  "term": "Fatigue"
+ },
+ {
+  "code": "910001221",
+  "term": "Lethargy"
+ },
+ {
+  "code": "910001258",
+  "term": "Syncope"
+ },
+ {
+  "code": "910001295",
+  "term": "Hypotension"
+ },
+ {
+  "code": "910001332",
+  "term": "Hypertension"
+ },
+ {
+  "code": "910001369",
+  "term": "Palpitations"
+ },
+ {
+  "code": "910001406",
+  "term": "Tachycardia"
+ },
+ {
+  "code": "910001443",
+  "term": "Bradycardia"
+ },
+ {
+  "code": "910001480",
+  "term": "Orthostatic hypotension"
+ },
+ {
+  "code": "910001517",
+  "term": "Chest pain"
+ },
+ {
+  "code": "910001554",
+  "term": "Peripheral oedema"
+ },
+ {
+  "code": "910001591",
+  "term": "Hepatic enzyme increased"
+ },
+ {
+  "code": "910001628",
+  "term": "Alanine aminotransferase increased"
+ },
+ {
+  "code": "910001665",
+  "term": "Aspartate aminotransferase increased"
+ },
+ {
+  "code": "910001702",
+  "term": "Hyperglycaemia"
+ },
+ {
+  "code": "910001739",
+  "term": "Hypoglycaemia"
+ },
+ {
+  "code": "910001776",
+  "term": "Hyperkalaemia"
+ },
+ {
+  "code": "910001813",
+  "term": "Hypokalaemia"
+ },
+ {
+  "code": "910001850",
+  "term": "Increased blood bilirubin"
+ },
+ {
+  "code": "910001887",
+  "term": "Drug-induced liver injury"
+ },
+ {
+  "code": "910001924",
+  "term": "Cough"
+ },
+ {
+  "code": "910001961",
+  "term": "Dyspnoea"
+ },
+ {
+  "code": "910001998",
+  "term": "Nasal congestion"
+ },
+ {
+  "code": "910002035",
+  "term": "Pharyngitis"
+ },
+ {
+  "code": "910002072",
+  "term": "Epistaxis"
+ },
+ {
+  "code": "910002109",
+  "term": "Wheezing"
+ },
+ {
+  "code": "910002146",
+  "term": "Arthralgia"
+ },
+ {
+  "code": "910002183",
+  "term": "Back pain"
+ },
+ {
+  "code": "910002220",
+  "term": "Myalgia"
+ },
+ {
+  "code": "910002257",
+  "term": "Muscle spasm"
+ },
+ {
+  "code": "910002294",
+  "term": "Pain in extremity"
+ },
+ {
+  "code": "910002331",
+  "term": "Pyrexia"
+ },
+ {
+  "code": "910002368",
+  "term": "Asthenia"
+ },
+ {
+  "code": "910002405",
+  "term": "Chills"
+ },
+ {
+  "code": "910002442",
+  "term": "Influenza-like illness"
+ },
+ {
+  "code": "910002479",
+  "term": "Feeling hot"
+ },
+ {
+  "code": "910002516",
+  "term": "Malaise"
+ },
+ {
+  "code": "910002553",
+  "term": "Injection site reaction"
+ },
+ {
+  "code": "910002590",
+  "term": "Hypersensitivity"
+ },
+ {
+  "code": "910002627",
+  "term": "Anaphylactic reaction"
+ },
+ {
+  "code": "910002664",
+  "term": "Blood creatinine increased"
+ },
+ {
+  "code": "910002701",
+  "term": "Renal impairment"
+ },
+ {
+  "code": "910002738",
+  "term": "Dehydration"
+ },
+ {
+  "code": "910002775",
+  "term": "Electrocardiogram QT prolonged"
+ }
+]
